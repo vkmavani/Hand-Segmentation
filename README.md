@@ -8,6 +8,10 @@
 
 * Here is one example of Hand-Segmenation using this model,
 
-<img src=''  />
+<img src='https://github.com/vkmavani/Hand-Segmentation/blob/main/1.png'  />
 
-<img src=''  />
+<img src='https://github.com/vkmavani/Hand-Segmentation/blob/main/output_1.png'  />
+
+
+## Pre-trained Model
+Google Drive : <a href='https://drive.google.com/file/d/1elFVF0DZSdkecbXKW0KLObiDQ6bvV-VF/view?usp=sharing'>Hand-Segmentation Model</a>
